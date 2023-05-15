@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+input, h1{
+    margin: 20px;
+}
+#btnEnviar{
+    margin: 20px;
+}
+#mostrarNomes{
+    font-weight: bold;
+    margin: 20px;
+}
+#btnOrganizar{
+    margin: 20px;
+    display: none;
+}
